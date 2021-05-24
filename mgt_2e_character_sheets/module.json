@@ -10,7 +10,7 @@
 	"minimumSystemVersion": "1.2.0",
 	"esmodules": ["mgt_2e_character_sheets.js"],
 	"styles": ["/css/mgt_2e_character_sheets.css", "/css/mgt_2e_character_sheets_extra.css"],
-	"url": "https://github.com/p4ub/mgt_2e_character_sheets/mgt_2e_character_sheets",
-	"manifest": "https://raw.githubusercontent.com/p4ub/mgt_2e_character_sheets/mgt_2e_character_sheets/module.json",
-	"download": "https://github.com/p4ub/mgt_2e_character_sheets/mgt_2e_character_sheets.zip"
+	"url": "https://github.com/p4ub/mgt_2e_character_sheets",
+	"manifest": "https://raw.githubusercontent.com/p4ub/mgt_2e_character_sheets/master/mgt_2e_character_sheets/module.json",
+	"download": "https://github.com/p4ub/mgt_2e_character_sheets/blob/master/mgt_2e_character_sheets.zip"
 }
